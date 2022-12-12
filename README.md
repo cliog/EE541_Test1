@@ -9,8 +9,6 @@ In this work we plan to outline the areas of the kurtosis maps (FAK, MK, AK and 
 
 # Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
 ## untitled3.ipnyb
 
 The Py notbook containing the entirety of the project work.
