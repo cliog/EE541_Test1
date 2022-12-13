@@ -13,10 +13,6 @@ In this work we plan to outline the areas of the kurtosis maps (FAK, MK, AK and 
 
 The Py notbook containing the entirety of the project work.
 
-## gray_scale_train_128_VAE_ISEL.py
-
-Reference Variational Auto Encoder as described in reference ''.
-
 ## Dataset
 
 ### dMRI
